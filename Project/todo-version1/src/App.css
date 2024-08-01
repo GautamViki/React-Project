@@ -1,0 +1,24 @@
+h1 {
+  color: blueviolet;
+  font-size: 60px;
+  font-weight: 900;
+  margin-bottom: 100px;
+}
+
+input {
+  width: 100%;
+}
+
+.item-container {
+  text-align: left;
+}
+.row {
+  width: 100%;
+  margin: 60px;
+}
+div {
+  width: 100%;
+}
+button{
+   width: 100%;
+}
