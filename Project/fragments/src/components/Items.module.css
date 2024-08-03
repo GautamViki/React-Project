@@ -2,7 +2,11 @@
   background-color: aqua;
 }
 
-.kg-span{
+.kg-span {
   font-weight: bold;
   color: blue;
+}
+
+.button {
+  float: right;
 }
